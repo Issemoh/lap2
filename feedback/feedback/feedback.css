@@ -1,0 +1,47 @@
+p {
+    color:green;
+    font-size: 20px;
+}
+h1 {
+    color:orangered;
+    text-align: center
+}
+body {
+    background:lightblue;
+    font-family: perptua, serif;
+}
+a{
+    background-color: yellow;
+    text-decoration: none;
+}
+#page-title{
+    text-shadow: 4px 4px rgb(128, 128, 128);
+    margin: 40px
+}
+#favorite-music-name {
+    background-color:lightgoldenrodyellow;
+    font-style: oblique;
+}
+#most-favorite-food{
+    font-style: italic;
+    background:lightcyan;
+}
+#favorite-movie-title {
+    background: lightsalmon;
+}
+.favorite-section {
+    border: 5px black solid;
+    margin: 5px;
+    font-style: oblique;
+    padding: 10px
+}
+li{
+    margin-left: 20px;
+}
+table,th,td{
+    border: 
+}
+.section-header{
+    font-style: initial;
+    background-color: white;
+}
