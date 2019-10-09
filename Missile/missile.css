@@ -1,0 +1,29 @@
+h1{
+    color: black;
+    }
+    
+    a{
+    background-color:  #cc6600;
+    ;
+    text-decoration: none;
+    font-size: 30px;
+    }
+    #page-title{
+    text-shadow: 4px 4px rgb(128, 128, 128);
+    margin: 20px
+    }
+    
+    #real-alert{
+    border: 8px solid darkred;
+    padding: 20px;
+    margin: 5px;
+    
+    }
+    
+    #test-only{
+    border: 8px solid #993d00;
+    padding: 20px;
+    margin: 15px;
+    }
+
+    
