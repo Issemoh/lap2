@@ -3,7 +3,7 @@ h1{
     }
     
     a{
-    background-color:  #cc6600;
+    background-color:  #cc6600d7;
     ;
     text-decoration: none;
     font-size: 30px;
@@ -21,7 +21,7 @@ h1{
     }
     
     #test-only{
-    border: 8px solid #993d00;
+    border: 8px solid rgb(47, 109, 18);
     padding: 20px;
     margin: 15px;
     }
